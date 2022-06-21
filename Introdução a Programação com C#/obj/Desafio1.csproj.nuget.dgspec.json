@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\adriellison.ferreira\\Desafios\\Introdução a Programação com C#\\Desafio1.csproj": {}
+    "C:\\Users\\adriellison.ferreira\\Desafios\\Introdução a Programação com C#\\Desafio1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\adriellison.ferreira\\Desafios\\Introdução a Programação com C#\\Desafio1.csproj": {
+    "C:\\Users\\adriellison.ferreira\\Desafios\\Introdução a Programação com C#\\Desafio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\adriellison.ferreira\\Desafios\\Introdução a Programação com C#\\Desafio1.csproj",
+        "projectUniqueName": "C:\\Users\\adriellison.ferreira\\Desafios\\Introdução a Programação com C#\\Desafio1.csproj",
         "projectName": "Desafio1",
-        "projectPath": "c:\\Users\\adriellison.ferreira\\Desafios\\Introdução a Programação com C#\\Desafio1.csproj",
+        "projectPath": "C:\\Users\\adriellison.ferreira\\Desafios\\Introdução a Programação com C#\\Desafio1.csproj",
         "packagesPath": "C:\\Users\\adriellison.ferreira\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\adriellison.ferreira\\Desafios\\Introdução a Programação com C#\\obj\\",
+        "outputPath": "C:\\Users\\adriellison.ferreira\\Desafios\\Introdução a Programação com C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adriellison.ferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",

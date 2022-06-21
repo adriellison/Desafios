@@ -7,14 +7,16 @@ class Desafio {
         for (int i = 0; i < limit; i++) 
         {
             string[] line = Console.ReadLine().Split(" ");
+
             double X = double.Parse(line[0]);
             double Y = double.Parse(line[1]);
-            if () {
-                
-
+            double div = X / Y;
+            if (div == 0) {
+                Console.WriteLine($"{div:f1}");
             } else {
                 Console.WriteLine("divisao impossivel");
             }
         }
+        
     }
 }
