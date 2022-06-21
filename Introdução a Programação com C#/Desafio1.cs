@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 //TODO: Complete os espaços em branco com uma possível solução para o problema.
 class Desafio {

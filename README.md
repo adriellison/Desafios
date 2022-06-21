@@ -12,6 +12,16 @@ Desafios de códigos de plataformas (ex: Dio e Beecrowd)
 
 ---
 
+- **Introdução a programação com C# - DIO**
+
+  > Desafio para ajudar a praticar e aplicar conceitos.
+
+  > [Visualizar repositório](./Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/)
+
+  > [link do desafio](https://web.dio.me/coding/introducao-a-programacao-com-c/algorithm/dividindo-x-por-y?back=/track/net-fundamentals&tab=undefined&moduleId=undefined)
+
+---
+
 - **Introdução a programação com Javascript - DIO**
 
   > Desafio para praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas.
