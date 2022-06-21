@@ -1,7 +1,7 @@
 using System;
 
 //TODO: Complete os espaços em branco com uma possível solução para o problema.
-class Desafio {
+class Desafio1 {
     static void Main() {
         int limit = Int32.Parse(Console.ReadLine());
         for (int i = 0; i < limit; i++) 
