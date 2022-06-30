@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adriellison.ferreira\\Desktop\\Desafios\\Introdução a Programação com C#\\Desafio1.csproj": {}
+    "C:\\Users\\adriellison.ferreira\\Desktop\\Desafios\\Desafios Inicias CSharp\\Desafio 1\\Desafio 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adriellison.ferreira\\Desktop\\Desafios\\Introdução a Programação com C#\\Desafio1.csproj": {
+    "C:\\Users\\adriellison.ferreira\\Desktop\\Desafios\\Desafios Inicias CSharp\\Desafio 1\\Desafio 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adriellison.ferreira\\Desktop\\Desafios\\Introdução a Programação com C#\\Desafio1.csproj",
-        "projectName": "Desafio1",
-        "projectPath": "C:\\Users\\adriellison.ferreira\\Desktop\\Desafios\\Introdução a Programação com C#\\Desafio1.csproj",
+        "projectUniqueName": "C:\\Users\\adriellison.ferreira\\Desktop\\Desafios\\Desafios Inicias CSharp\\Desafio 1\\Desafio 1.csproj",
+        "projectName": "Desafio 1",
+        "projectPath": "C:\\Users\\adriellison.ferreira\\Desktop\\Desafios\\Desafios Inicias CSharp\\Desafio 1\\Desafio 1.csproj",
         "packagesPath": "C:\\Users\\adriellison.ferreira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adriellison.ferreira\\Desktop\\Desafios\\Introdução a Programação com C#\\obj\\",
+        "outputPath": "C:\\Users\\adriellison.ferreira\\Desktop\\Desafios\\Desafios Inicias CSharp\\Desafio 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adriellison.ferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",

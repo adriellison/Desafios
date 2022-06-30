@@ -2,6 +2,13 @@
 
 Desafios de códigos de plataformas (ex: Dio e Beecrowd)
 
+- Desafios Inicias C# - GFT Start #5
+
+  > [Visualizar repositório](./Desafios%20Inicias%20CSharp/)
+
+  > [link do desafio](https://web.dio.me/coding/desafios-inicias-c-gft-start-5/algorithm/media-2?back=/track/gft-start-5-net&tab=undefined&moduleId=undefined)
+
+
 - **Fundamentos Aritméticos em Javascript - DIO**
 
   > Desafio para praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas.

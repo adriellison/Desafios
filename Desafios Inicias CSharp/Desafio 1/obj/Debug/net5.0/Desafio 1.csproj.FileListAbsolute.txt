@@ -1,0 +1,16 @@
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\bin\Debug\net5.0\Desafio 1.exe
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\bin\Debug\net5.0\Desafio 1.deps.json
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\bin\Debug\net5.0\Desafio 1.runtimeconfig.json
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\bin\Debug\net5.0\Desafio 1.runtimeconfig.dev.json
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\bin\Debug\net5.0\Desafio 1.dll
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\bin\Debug\net5.0\ref\Desafio 1.dll
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\bin\Debug\net5.0\Desafio 1.pdb
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\obj\Debug\net5.0\Desafio 1.csproj.AssemblyReference.cache
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\obj\Debug\net5.0\Desafio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\obj\Debug\net5.0\Desafio 1.AssemblyInfoInputs.cache
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\obj\Debug\net5.0\Desafio 1.AssemblyInfo.cs
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\obj\Debug\net5.0\Desafio 1.csproj.CoreCompileInputs.cache
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\obj\Debug\net5.0\Desafio 1.dll
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\obj\Debug\net5.0\ref\Desafio 1.dll
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\obj\Debug\net5.0\Desafio 1.pdb
+C:\Users\adriellison.ferreira\Desktop\Desafios\Desafios Inicias CSharp\Desafio 1\obj\Debug\net5.0\Desafio 1.genruntimeconfig.cache
