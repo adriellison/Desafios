@@ -4,10 +4,15 @@ Desafios de códigos de plataformas (ex: Dio e Beecrowd)
 
 - Desafios Inicias C# - GFT Start #5
 
-  > [Visualizar repositório](./Desafios%20Inicias%20CSharp/)
+  > [Visualizar repositório](./Desafios%20Iniciais%20CSharp/)
 
   > [link do desafio](https://web.dio.me/coding/desafios-inicias-c-gft-start-5/algorithm/media-2?back=/track/gft-start-5-net&tab=undefined&moduleId=undefined)
 
+- Desafios Inicias JavaScript - Decola Tech
+
+  > [Visualizar repositório](./Desafios%20Iniciais%20JavaScript/)
+
+  > [link do desafio](https://web.dio.me/coding/desafios-iniciais-javascript-decola-tech/algorithm/as-duas-torres?back=/track/decola-tech-3a-edicao&tab=undefined&moduleId=undefined)
 
 - **Fundamentos Aritméticos em Javascript - DIO**
 
